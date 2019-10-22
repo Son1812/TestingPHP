@@ -3,6 +3,6 @@
   <title>PHP Test</title>
  </head>
  <body>
- 	<?php echo '<a href="">View profile</a>'; ?> 
+ 	<?php echo '<a href="profile.php">View profile</a>'; ?> 
  </body>
 </html>
